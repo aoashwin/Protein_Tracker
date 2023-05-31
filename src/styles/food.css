@@ -1,0 +1,31 @@
+.food-container {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    align-items: center;
+  }
+  
+  .added-food-item {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 34px 38px rgba(0, 0, 0, 0.1);
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  
+  .added-food-item:not(:last-child) {
+    margin-bottom: 10px;
+  }
+  
+  .total-count {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 34px 38px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+  }
+  

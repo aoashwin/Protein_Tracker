@@ -1,0 +1,24 @@
+#bg1 {
+  width: 100%;
+  height: 840px;
+  background-image: url("../Images/BGimage.png");
+  background-position: center;
+  background-size: cover;
+}
+#c1{
+  display: flex;
+}
+#bg2 {
+    margin: auto;
+  background-image: url("../Images/BGimage2.png");
+  height: 45vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#spacer{
+  background-color:#FFDD33 ;
+  /* background-color: red ; */
+  
+}
